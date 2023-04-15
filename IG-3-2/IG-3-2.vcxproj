@@ -134,20 +134,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\camera.cpp" />
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\math_3d.cpp" />
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\pipeline.cpp" />
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\texture.cpp" />
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\camera.h" />
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\math_3d.h" />
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\pipeline.h" />
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\texture.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\callbacks.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\camera.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\glut_backend.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\lighting_technique.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\math_3d.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\pipeline.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\technique.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\texture.h" />
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\util.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\camera.cpp" />
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\glut_backend.cpp" />
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\lighting_technique.cpp" />
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\main.cpp" />
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\math_3d.cpp" />
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\pipeline.cpp" />
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\technique.cpp" />
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\texture.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

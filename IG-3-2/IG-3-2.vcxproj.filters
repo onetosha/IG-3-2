@@ -15,37 +15,61 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\math_3d.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\pipeline.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\texture.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\camera.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\math_3d.h">
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\glut_backend.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\pipeline.h">
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\lighting_technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\texture.h">
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\math_3d.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial16\camera.h">
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\pipeline.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\technique.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\texture.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\util.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\callbacks.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\camera.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\glut_backend.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\lighting_technique.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\math_3d.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\pipeline.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\technique.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\texture.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Downloads\ogldev-master (1)\ogldev-master\tutorial19\camera.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
